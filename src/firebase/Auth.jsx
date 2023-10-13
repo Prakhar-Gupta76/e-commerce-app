@@ -19,7 +19,7 @@ import { createContext } from "react";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyAyQm0pbzexY9gb_QxnO5ULSvDok7oXsBs",
-  authDomain: "dn3-streams-e-commerce-4416c.firebaseapp.com",
+  authDomain: "https://e-commerce-app-prakar-gupta.vercel.app/",
   projectId: "dn3-streams-e-commerce-4416c",
   storageBucket: "dn3-streams-e-commerce-4416c.appspot.com",
   messagingSenderId: "949873596171",
